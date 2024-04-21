@@ -1,5 +1,1 @@
-{
-    "buildingsToRemove": [
-        "Palace"
-    ]
-}
+{ "buildingsToRemove": ["Palace"] }
